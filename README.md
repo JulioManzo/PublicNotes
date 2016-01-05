@@ -1,2 +1,4 @@
 # PublicNotes
-Public Notes
+Welcome to my Public Notes
+Thank you.
+
